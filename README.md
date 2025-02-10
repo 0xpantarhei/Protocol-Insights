@@ -6,5 +6,6 @@ You can read Protocol Insights #0-23 [here](https://0xpantarhei.substack.com/t/n
 
 # Posts
 
-- [Protocol Insights #24](./post/insight-20241224.md)
+- [Protocol Insights #26](./post/insight-20250210.md)
 - [Protocol Insights #25](./post/insight-20250122.md)
+- [Protocol Insights #24](./post/insight-20241224.md)
